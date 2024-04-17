@@ -21,6 +21,8 @@ Accident Index vs. Accident Severity: Pie chart
 Dashboard
 The dashboard is designed to be user-friendly, providing a comprehensive overview of the data at a glance. Filters for specific criteria like local authority districts are available to narrow down the data views.
 
+![Screenshot 2024-03-24 164038](https://github.com/Drashti0913/Road_Safety_DataAnalysis/assets/89067080/0ec5efd7-37f1-4a5e-8e5a-a9a696d78fac)
+
 ### Tools Used
 Power BI Desktop: For creating visualizations and dashboards.
 Excel: Source data in Excel format.
